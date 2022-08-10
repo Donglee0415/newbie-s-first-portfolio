@@ -1,0 +1,52 @@
+
+body{
+margin:0;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #033859;
+    padding: 8px 12px;
+
+}
+
+.menubar{
+    display:flex;
+    list-style: none;
+    padding-left: 0;
+    
+    
+}
+.menubar li{
+padding: 8px 12px;
+
+
+}
+.menubar a{
+    color: white;
+}
+
+.myname{
+    font-size: 35px;
+    font-family: 'Indie Flower'; 
+}
+
+.myname i{
+    color: #EAA91D;
+    font-size:40px;
+}
+.myname a{
+    color:#fff;
+}
+
+.menubar i{
+    color:#EAA91D;
+    display:flex;
+    align-items: center;
+}
