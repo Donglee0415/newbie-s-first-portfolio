@@ -30,11 +30,12 @@ padding: 8px 12px;
 }
 .menubar a{
     color: white;
+    font-family: 'Teko', sans-serif;
 }
 
 .myname{
     font-size: 35px;
-    font-family: 'Indie Flower'; 
+    font-family: 'Teko', sans-serif; 
 }
 
 .myname i{
@@ -49,4 +50,124 @@ padding: 8px 12px;
     color:#EAA91D;
     display:flex;
     align-items: center;
+}
+.mypic{
+    width:300px;
+    height:200px;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+#aboutme{
+    background-color:#EAA91D;
+    color:#fff;
+    font-family: 'Teko', sans-serif;
+    margin: 30px 30px;
+    border-radius:20px;
+}
+
+.aboutme h2{
+    margin-left:30px;
+}
+
+.aboutme p{
+    margin:0;
+    margin-left:30px;
+    margin-bottom:30px;
+    
+    
+}
+#education{
+    background-color:#EAA91D;
+    color:#fff;
+    font-family: 'Teko', sans-serif;
+    margin: 30px 30px;
+    border-radius:20px;
+}
+.education h2{
+    margin-left:30px;
+}
+
+.education p{
+    margin:0;
+    margin-left:30px;
+    margin-bottom:30px;
+    
+    
+}
+
+
+
+
+footer{
+    display:flex;
+    background-color: #033859;
+    height: auto;
+    width:100vw;
+    padding-top:40px;
+
+}
+.footer{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+
+}
+.footerbottom li{
+    display:flex;
+    padding: 8px 12px;
+    text-decoration:none;
+    list-style: none;
+    
+
+}
+.footer{
+    color:#fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    bottom:0;
+    
+   
+}
+.footerbottom i{
+    display:flex;
+    color:#EAA91D;
+    align-items:center;
+    list-style: none;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+.footer h3{
+    font-size:40px;
+    align-items:center;
+    font-family: 'Teko', sans-serif;
+}
+.footer p{
+    max-width:500px;
+    font-size:20px;
+    margin: 10px auto;
+    line-height: 20px;
+    font-family: 'Teko', sans-serif;
+}
+
+
+
+
+
+@media screen and (max-width: 768px){
+    .navbar{
+        flex-direction:column;
+        align-items: flex-start;
+    }
+    .menubar{
+        flex-direction:column;
+        align-items: center;
+        width:100%
+    }
+  
 }
