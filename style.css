@@ -6,6 +6,9 @@
 body{
     background-color: #85929E;
     margin:0;
+    position: relative;
+    padding-bottom:58px;
+    min-height: 100vh;
 }
 
 a{
@@ -62,85 +65,68 @@ padding: 8px 12px;
     border:auto;  
 
 }
-.mypic{
-    width:300px;
-    height:200px;
-    border-radius: 30px;
-    margin-top: 30px;
-    margin-left: 30px;
+main{
+    width:90vw;
+    margin: 0 auto;
+    padding: 30px 20px;
     
 }
-#aboutme{
-    background-color:#EAA91D;
-    color:#fff;
-    font-family: 'Teko', sans-serif;
-    margin: 30px 30px;
-    border-radius:20px;
-}
-
-.aboutme h2{
-    margin-left:30px;
-}
-
-.aboutme p{
-    margin:0;
-    margin-left:30px;
-    margin-bottom:30px;
-    
-    
-}
-
-#contact{
-    display:flex;
-    color:#fff;
-    align-items: center;
-    background-color: #EAA91D;
-    padding: 30px 30px;
-    border-radius: 30px;
-    margin: 30px 30px;
+/* aboutme style*/
+section{
+    background-color:#fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius:5px;
   
 }
-section h2{
-    color:#fff;
-    margin-left:30px;
-    
-
-
+/*Education style start*/
+.uta{
+    width:450px;
+    height:200px;
+    float:right;
+    border-radius:5px;
 }
-section li{
-    align-items: center;
-    display:flex;
-    list-style:none;
-    text-decoration: none;
+.tcc{
+    width:450px;
+    height:200px;
+    float:right;
+    border-radius:5px;
 }
 
+article{
+    background-color:#fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius:5px;
+}
 
+article:last-child{
+    margin-bottom: 0;
+}
 
+article h3{
+    margin: 10px 0 25px 0;
+}
 
-
-
-
-
+article li{
+    margin-top: 16px;
+    line-height: 24px;
+    list-style: none;
+}
+/*Education style end*/
 
 footer{
-    display:flex;
-    background-color: #033859;
-    color:#fff;
-    align-items: center;
-    padding: 30px 30px;
-    justify-content:space-around;
+   text-align: center;
+   background-color: #033859;
+   color: #fff;
+   padding:20px;
+   position: absolute;
+   bottom:0;
+   width:100%;
+
+
 }
 
-.footer h3{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
-.footer p{
-    display:flex;
-    align-items: center;
-    flex-direction: column;
-}
 
 @media screen and (max-width: 768px){
     .navbar{
