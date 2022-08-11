@@ -84,6 +84,7 @@ section{
 .mypic{
     width:200px;
     height:150px;
+    border-radius: 5px;
 }
 /*Education style start*/
 .uta{
