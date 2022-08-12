@@ -40,4 +40,4 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ---
 ## Deployment
-Deployment:https://donglee0415.github.io/newbie-s-first-portfolio/
+Deployment:http://dongfirstportfolio.example.com/
