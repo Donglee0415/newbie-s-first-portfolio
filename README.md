@@ -35,7 +35,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ## Screen Shot
-![screen shot horiseon](./image/_Users_donglee_Documents_Bootcamp_newbie-s-first-portfolio_index.html.png)
+![screen shot horiseon](./image/_Users_donglee_Documents_Bootcamp_newbie-s-first-portfolio_index.html%20(1).png)
 
 
 ---
