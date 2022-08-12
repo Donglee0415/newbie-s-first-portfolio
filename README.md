@@ -31,11 +31,11 @@ SO THAT I can review samples of their work and assess whether they're a good can
 * Created whole portfolio from scratch.
 * It will be my good practice when I comeback and review it after 6 months.
 * Used advanced CSS learned from second week class.
-* 
+* Since I don't have any work I used my resume.
 
 
 ## Screen Shot
-![screen shot horiseon](https://user-images.githubusercontent.com/108561728/182993740-c8267cc5-daa1-4531-bcc5-66279271bba5.png)
+![screen shot horiseon](./image/_Users_donglee_Documents_Bootcamp_newbie-s-first-portfolio_index.html.png)
 
 
 ---
