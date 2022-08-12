@@ -31,6 +31,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 * Created whole portfolio from scratch.
 * It will be my good practice when I comeback and review it after 6 months.
 * Used advanced CSS learned from second week class.
+* 
 
 
 ## Screen Shot
@@ -38,3 +39,4 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ---
+Deployment:https://donglee0415.github.io/newbie-s-first-portfolio/

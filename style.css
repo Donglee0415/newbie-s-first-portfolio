@@ -37,6 +37,13 @@ padding: 8px 12px;
 
 
 }
+.menubar li:hover{
+background-color: #C6D2DE;
+border-radius: 10px;
+opacity: 0.9;
+
+
+}
 .menubar a{
     color: white;
     font-family: 'Teko', sans-serif;
@@ -86,20 +93,73 @@ section{
     height:150px;
     border-radius: 5px;
 }
+/*Top banner styling start*/
+.educationtop{
+    width:800px;
+    height:400px;
+    border-radius:5px;
+    border: 5px solid #ddd;
+    padding:5px;
+
+}
+.educationtop:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    opacity: 0.5;
+  }
+
+.skillstop{
+    width:700px;
+    height:150px;
+    margin-left:70px;
+    border-radius:5px;
+    border:5px solid #ddd;
+    padding:5px;
+
+}
+.skillstop:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    opacity: 0.5;
+  }
+  
+  .contacttop{
+    width:700px;
+    height:150px;
+    border-radius:5px;
+    border:5px solid #ddd;
+    padding:5px;
+
+}
+.contacttop:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    opacity:0.5
+  }
+/*Top banner styling end*/
+
 /*Education style start*/
 .uta{
     width:450px;
     height:200px;
     float:right;
     border-radius:5px;
+    border:5px solid #ddd;
+    padding:5px;
 }
+.uta:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    opacity:0.5
+  }
 .tcc{
     width:450px;
     height:200px;
     float:right;
     border-radius:5px;
+    border:5px solid #ddd;
+    padding:5px;
 }
-
+.tcc:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    opacity:0.5
+  }
 article{
     background-color:#fff;
     padding: 20px;
@@ -133,6 +193,12 @@ footer{
 
 
 }
+.fa-solid fa-phone{
+    display:flex;
+    align-items: center;
+}
+   
+
 
 
 @media screen and (max-width: 768px){
