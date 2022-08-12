@@ -28,7 +28,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ## Memo
-* Created whole portfolio from scratch.
+* Created whole portfolio from blank.
 * It will be my good practice when I comeback and review it after 6 months.
 * Used advanced CSS learned from second week class.
 * Since I don't have any work I used my resume.
@@ -39,4 +39,5 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 ---
+## Deployment
 Deployment:https://donglee0415.github.io/newbie-s-first-portfolio/
