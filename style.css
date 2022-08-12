@@ -121,7 +121,7 @@ section{
     opacity: 0.5;
   }
   
-  .contacttop{
+.contacttop{
     width:700px;
     height:150px;
     border-radius:5px;
@@ -193,12 +193,15 @@ footer{
 
 
 }
-.fa-solid fa-phone{
-    display:flex;
-    align-items: center;
+.number{
+    display: inline-flex;
+    margin:auto;
+    padding-left: 0;
+    padding-right: 0;
 }
-   
-
+.email{
+    display: inline-flex;
+}
 
 
 @media screen and (max-width: 768px){
